@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "nodemon": "^2.0.19",
+    "pug": "^3.0.2"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "description": "first use of the express framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "Angela Vergara",
+  "license": "ISC"
+}
